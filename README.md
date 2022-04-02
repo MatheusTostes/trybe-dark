@@ -8,7 +8,11 @@ Para utilizar:
 
 - Altere para o modo desenvolvedor no canto direito superior
 
-- Arraste a pasta trybe-dark para a janela do chrome
+- Faça download do repositório https://github.com/MatheusTostes/trybe-dark/archive/refs/heads/main.zip
+
+- Descompacte o arquivo
+
+- Arraste a pasta trybe-dark-main para a janela do chrome
 
 - Let's code!
 
