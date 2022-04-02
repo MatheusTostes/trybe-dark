@@ -4,7 +4,7 @@ Dark mode for trybe
 
 Para utilizar:
 
-- Abra a tela de extensões do chrome em chrome://extensions/
+- Abra a tela de extensões do chrome (cole chrome://extensions/ na barra de pesquisa)
 
 - Altere para o modo desenvolvedor no canto direito superior
 
