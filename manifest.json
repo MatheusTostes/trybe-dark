@@ -9,7 +9,6 @@
     },
     "content_scripts": [
         {
-
             "css": ["style.css"],
             "js": ["content.js"],
             "matches": [
